@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_516c56d8-e539-4db6-9ef4-b96d1f2a9776>
+            <name>Python Source Group</name>
+            <source_extensions>
+                <source_extension>.py</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>clean</source_path>
+                <source_path>utils.py</source_path>
+                <source_path>tools</source_path>
+                <source_path>settings.ini</source_path>
+                <source_path>requirements.txt</source_path>
+                <source_path>README.md</source_path>
+                <source_path>README_zh.md</source_path>
+                <source_path>README_ko.md</source_path>
+                <source_path>README_id.md</source_path>
+                <source_path>README_es.md</source_path>
+                <source_path>README_bn.md</source_path>
+                <source_path>LICENSE</source_path>
+                <source_path>images</source_path>
+                <source_path>environment.yml</source_path>
+                <source_path>CODE_OF_CONDUCT.md</source_path>
+                <source_path>app_jupyter.ipynb</source_path>
+                <source_path>app_blog.ipynb</source_path>
+                <source_path>20_conclusion.ipynb</source_path>
+                <source_path>19_learner.ipynb</source_path>
+                <source_path>18_CAM.ipynb</source_path>
+                <source_path>17_foundations.ipynb</source_path>
+                <source_path>16_accel_sgd.ipynb</source_path>
+                <source_path>15_arch_details.ipynb</source_path>
+                <source_path>14_resnet.ipynb</source_path>
+                <source_path>13_convolutions.ipynb</source_path>
+                <source_path>12_nlp_dive.ipynb</source_path>
+                <source_path>11_midlevel_data.ipynb</source_path>
+                <source_path>10_nlp.ipynb</source_path>
+                <source_path>09_tabular.ipynb</source_path>
+                <source_path>08_collab.ipynb</source_path>
+                <source_path>07_sizing_and_tta.ipynb</source_path>
+                <source_path>06_multicat.ipynb</source_path>
+                <source_path>05_pet_breeds.ipynb</source_path>
+                <source_path>04_mnist_basics.ipynb</source_path>
+                <source_path>03_ethics.ipynb</source_path>
+                <source_path>02_production.ipynb</source_path>
+                <source_path>01_intro.ipynb</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Python Source Group</type>
+        </source_group_516c56d8-e539-4db6-9ef4-b96d1f2a9776>
+    </source_groups>
+    <version>8</version>
+</config>
